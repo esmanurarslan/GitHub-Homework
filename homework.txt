@@ -4,3 +4,33 @@ See u
 
 I have to make some changes for new branch activity.
 
+The text above was created while doing the tasks.
+This section of the text to explain  my homework.
+
+I created a new repository. And some terminal commands was executed for tasks.
+These are sequentially:
+  *cd Desktop
+  *git clone  https://github.com/esmanurarslan/GitHub-Homework
+  
+  *cd GitHub-Homework
+  *touch homework.txt
+  
+  *git add homework.txt
+  *git commit -m "Add homework.txt file"
+  *git push origin main
+  
+  *git branch feature-branch
+  *git checkout feature-branch
+  
+  *nano homework.txt
+  *git add homework.txt
+  *git commit -m "Make changes to homework.txt in feature-branch"
+  *git push origin feature-branch
+  
+  *git checkout main
+  *git merge feature-branch
+  *git push origin main
+
+For another tasks, i used github web page. 
+I invited Eslem for collabrate with me. And she is one of the writer of my project.
+I created an issue that is funny issue.And i moved these issue to the my project's 'to do' section.
